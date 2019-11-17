@@ -25,4 +25,8 @@ class Index
     public function getOne(){
         echo 44444444455555;
     }
+
+    public function get(){
+        echo 66666666666666666;
+    }
 }
