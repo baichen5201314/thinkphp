@@ -20,4 +20,9 @@ class Index
     public function getStatus(){
         echo 2222222;
     }
+
+
+    public function getOne(){
+        echo 44444444455555;
+    }
 }
