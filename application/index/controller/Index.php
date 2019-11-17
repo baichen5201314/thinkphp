@@ -29,4 +29,8 @@ class Index
     public function get(){
         echo 66666666666666666;
     }
+
+    public function setName(){
+        echo 7777777777777777;
+    }
 }
