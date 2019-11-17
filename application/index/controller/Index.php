@@ -16,4 +16,8 @@ class Index
     public function getIndex(){
         echo 11111;
     }
+
+    public function getStatus(){
+        echo 2222222;
+    }
 }
